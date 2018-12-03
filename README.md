@@ -52,5 +52,15 @@ V. [Project management](#V-project-management)
 ### Constructing And Implementing My Code
 ### Algorithms
 ### Coding Standards
+#### Indentations   
+One tab per level of indentation.   
+Example:   
+x = 1   
+y = 1   
+&nbsp;&nbsp;&nbsp;&nbsp;if x == y:   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;do something() if true:   
+Naming: camelCase with no underscores between words.   
+Comments: Should be above the code, using // to comment.   
+Spacing: There should a space seperating every element unless there is an operator.
 ## Research
 ## Project management
