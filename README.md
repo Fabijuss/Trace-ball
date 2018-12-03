@@ -62,10 +62,22 @@ y = 1
 
 #### Naming    
 camelCase with no underscores between words.   
+Example:   
+&nbsp;&nbsp;variableName   
+Not:   
+&nbsp;&nbsp;variable-name   
 #### Comments   
-Should be above the code, using // to comment.  
-
+Should be above the code, using // to comment. No inline comments.  
+Example:  
+&nbsp;&nbsp;// this is code   
+&nbsp;&nbsp;code()   
 #### Spacing   
-There should a space seperating every element unless there is an operator.
+There should a space seperating every element unless there is an operator.   
+Example:  
+&nbsp;&nbsp;var space = 1   
+&nbsp;&nbsp;division = numberOne/numberTwo   
+Not:   
+&nbsp;&nbsp;var space=1   
+
 ## Research
 ## Project management
