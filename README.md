@@ -2,7 +2,7 @@
  ---
 ### Contents
 I. [Epics and User Stories](#-epics-and-user-stories)  
-&nbsp;&nbsp;&nbsp;I.1 [Epic](#epic)  
+&nbsp;I.1 [Epic](#epic)  
 &nbsp;I.2 [User Stories](#user-stories)  
 &nbsp;&nbsp;&nbsp;I.2.1 [Enemy](#enemy)   
 &nbsp;&nbsp;&nbsp;I.2.2 [Player](#player)   
