@@ -55,29 +55,39 @@ V. [Project management](#V-project-management)
 #### Indentations   
 One tab per level of indentation.   
 Example:   
-x = 1   
-y = 1   
-&nbsp;&nbsp;&nbsp;&nbsp;if x == y:   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;do something() if true:   
+
+    x = 1   
+    y = 1   
+    code
+    {
+     if x == y:   
+      do something() if true:   
+    }
 
 #### Naming    
 camelCase with no underscores between words.   
 Example:   
-&nbsp;&nbsp;variableName   
+
+     variableName   
 Not:   
-&nbsp;&nbsp;variable-name   
+
+     variable-name   
+
 #### Comments   
 Should be above the code, using // to comment. No inline comments.  
 Example:  
-&nbsp;&nbsp;// this is code   
-&nbsp;&nbsp;code()   
+
+    // this is code   
+    code()   
 #### Spacing   
 There should a space seperating every element unless there is an operator.   
 Example:  
-&nbsp;&nbsp;var space = 1   
-&nbsp;&nbsp;division = numberOne/numberTwo   
+
+    var space = 1   
+    division = numberOne/numberTwo   
 Not:   
-&nbsp;&nbsp;var space=1   
+
+    var space=1   
 
 ## Research
 ## Project management
