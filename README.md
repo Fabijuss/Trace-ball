@@ -40,8 +40,8 @@ V. [Project management](#V-project-management)
  The game should have some graphics, so that the enemy and the player are distinguishable and so the game has a degree of visual appeal.
  #### Restart   
  When the player loses all of their lives, the game should be able to restart. 
- #### Invulnerability   
- When the player is touched by the enemy, there should be a short period of time where the player cannot be damaged again. This is in order to prevent the player from losing very quickly from multiple touches. 
+ #### Invulnerability  
+ When the player is touched by the enemy, there should be a short period of time where the player cannot be damaged again. This is in order to prevent the player from losing very quickly from consecutive touches while within the collision area of the enemy.
  
  ### How We Addressed The Requirements
 ## Genre
