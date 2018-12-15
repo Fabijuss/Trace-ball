@@ -80,7 +80,7 @@ Example:
     // this is code   
     code()   
 #### Spacing   
-There should a space seperating every element unless there is an operator.   
+There should a space separating every element unless there is an operator.   
 Example:  
 
     var space = 1   
