@@ -1,7 +1,7 @@
- # Trace ball
+# Trace ball
  ---
 ### Contents
-I. [Epics and User Stories](#-epics-and-user-stories)  
+I. [Epics and User Stories](#epics-and-user-stories)  
 &nbsp;I.1 [Epic](#epic)  
 &nbsp;I.2 [User Stories](#user-stories)  
 &nbsp;&nbsp;&nbsp;I.2.1 [Enemy](#enemy)   
@@ -16,13 +16,13 @@ I. [Epics and User Stories](#-epics-and-user-stories)
 II. [Genre](#genre)  
 III. [Technical details](#technical-details)  
 &nbsp;III.1 [Platform](#platform)  
-&nbsp;III.2 [Programming Language/Enviroment](#programming-language/environment)  
+&nbsp;III.2 [Programming Language/Enviroment](#programming-language)  
 &nbsp;III.3 [Programming Challenges](#programming-challenges)  
 &nbsp;III.4 [Constructing And Implementing My Code](#constructing-and-implementing-my-code)  
 &nbsp;III.5 [Algorithms](#algorithms)  
 &nbsp;III.6 [Coding Standards](#coding-standards)  
-IV. [Research](#IV-research)  
-V. [Project management](#V-project-management)  
+IV. [Research](#research)  
+V. [Project management](#project-management)  
 ## Epics and User Stories
  ### Epic
   A game in which the player controls a square with their mouse and tries to escape from a chasing enemy square.
@@ -42,14 +42,21 @@ V. [Project management](#V-project-management)
  When the player loses all of their lives, the game should be able to restart. 
  #### Invulnerability  
  When the player is touched by the enemy, there should be a short period of time where the player cannot be damaged again. This is in order to prevent the player from losing very quickly from consecutive touches while within the collision area of the enemy.
- 
- ### How We Addressed The Requirements
+
+ ### How We Addressed the Requirements
+A plan was created in order to split up the requirements into actionable steps. From this point, these steps were followed by creating a flowchart so that they can be visualised easier, and then implemented into actual code.
 ## Genre
+It is a web-based, single player, player versus computer game.
 ## Technical details
 ### Platform
-### Programming Language/Enviroment
+The program was created using no IDE. The entire creation of the application was carried out using the general text editor named ‘Notepad’.
+### Programming Language
+The programming language for this project is Javascript.
 ### Programming Challenges
-### Constructing And Implementing My Code
++ Making the enemy follow the player
++ Lives
++ Game borders
+### Constructing and Implementing My Code
 ### Algorithms
 ### Coding Standards
 #### Indentations   
